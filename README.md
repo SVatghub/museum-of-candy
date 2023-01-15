@@ -1,1 +1,2 @@
-# museum-of-candy
+# museum-of-candy (using javascript)
+
