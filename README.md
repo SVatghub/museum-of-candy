@@ -1,2 +1,2 @@
-# museum-of-candy (using javascript)
-
+# museum-of-candy 
+Responsive Web-Page using HTML and CSS
